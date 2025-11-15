@@ -1,7 +1,9 @@
 Artichokes
 Asparagus
 Beets
+Bell Peppers
 Bok Choy
+Broccoli
 Cabbage
 Carrots
 Celery
